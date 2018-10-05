@@ -1,12 +1,4 @@
 # Building plans
-[buildPlans.iosevka-marco-custom]
-family  = "Iosevka Marco Custom"
-design  = ["stress-fw", "ligset-coq", "v-l-zshaped", "v-i-zshaped", "v-zero-slashed", "v-at-long"]
-
-[buildPlans.iosevka-marco-term-custom]
-family  = "Iosevka Marco Term Custom"
-design  = ["term", "v-l-zshaped", "v-i-zshaped", "v-zero-slashed", "v-at-long"]
-
 # Sans
 [buildPlans.iosevka]
 family = "Iosevka"
